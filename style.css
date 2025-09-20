@@ -1,18 +1,19 @@
 body {
   background-color: white;
 }
-.title {
+#title {
   font-size: 20rem;
   font-color: rgb(44,218,230);
   background: rgb(0,0,0,0.5);
 }
-.subtitle {
+#subtitle {
   font-size: 16rem;
 }
 
 ul {
   text-align: center;
   font-family: monospace;
+  list-style-type: none;
 }
 h2 {
   font-size: 6rem;
